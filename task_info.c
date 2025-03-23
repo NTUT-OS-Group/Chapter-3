@@ -10,7 +10,7 @@
 #define BUFFER_SIZE 10240
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("OS Group");
 MODULE_DESCRIPTION("A Kernel Module for displaying task information");
 
 // 用於保存輸出的緩衝區
